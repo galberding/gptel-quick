@@ -198,8 +198,8 @@ quick actions on the popup."
                        :poshandler poshandler
                        :left-fringe 8
                        :right-fringe 8
-                       :min-width 36
-                       :max-width fill-column
+                       :min-width 70
+                       :max-width 110
                        :min-height 1
                        :timeout gptel-quick-timeout))
     (message response)))
